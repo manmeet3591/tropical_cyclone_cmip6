@@ -1,0 +1,16 @@
+1. BCC-CSM2-MR, r1i1p1f1
+2. CNRM-CM6-1, r2i1p1f2
+3. CNRM-ESM2-1, r2i1p1f2
+4. EC-Earth3-CC, r1i1p1f1
+5. EC-Earth3-Veg, r1i1p1f1
+5. EC-Earth3-Veg-LR, r1i1p1f1
+6. IPSL-CM6A-LR, r1i1p1f1
+7. MIROC6, r1i1p1f1
+8. UKESM1-0-LL, r1i1p1f2
+9. HadGEM3-GC31-LL, r1i1p1f3
+10. MRI-ESM2-0, r2i1p1f1
+11. CESM2-WACCM, r1i1p1f1
+12. CESM2, r1i1p1f1
+13. NorESM2-LM, r1i1p1f1
+14. NorESM2-MM, r1i1p1f1
+15. NESM3, r1i1p1f1
