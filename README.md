@@ -161,3 +161,6 @@ print(f"Processed cyclone detection data saved to {output_file}")
 ---
 
 This script automates **tropical cyclone detection from CMIP6 data** using the **OWZP method**, providing a robust and scalable approach for climate modeling and forecasting. 🌪️🔥
+
+https://esgf-ui.ceda.ac.uk/cog/search/cmip6-ceda/
+
